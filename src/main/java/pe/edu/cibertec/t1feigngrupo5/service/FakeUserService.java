@@ -2,8 +2,9 @@ package pe.edu.cibertec.t1feigngrupo5.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import pe.edu.cibertec.t1feigngrupo5.restclient.placeholder.iclient.FakeUserClient;
-import pe.edu.cibertec.t1feigngrupo5.restclient.placeholder.model.FakeUserDto;
+import pe.edu.cibertec.t1feigngrupo5.restClient.placeholder.iclient.FakeUserClient;
+import pe.edu.cibertec.t1feigngrupo5.restClient.placeholder.model.FakeUserDto;
+
 
 import java.util.List;
 
